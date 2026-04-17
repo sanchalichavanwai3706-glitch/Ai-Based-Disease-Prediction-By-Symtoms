@@ -1,0 +1,6 @@
+Sample Data
+  symptom1,symptom2,symptom3,disease
+fever,cough,headache,Flu
+fever,body pain,chills,Dengue
+cough,fever,breathing problem,Covid-19
+headache,nausea,blurred vision,Migraine
